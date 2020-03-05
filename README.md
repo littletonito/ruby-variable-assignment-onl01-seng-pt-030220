@@ -37,5 +37,5 @@ To solve this test failure, create a local variable `greeting` in the `variable.
 
 
 greeting = "Hello World"
-puts #greeting
+puts # greeting
 
